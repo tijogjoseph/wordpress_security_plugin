@@ -13,4 +13,9 @@ Features Implemented
  - backup reliability - Implemented
  - Site checks and DB scan - Partially implemented
  - Admin dashboard - Done
+
+PRO features
+- Google search console integration
+- Advanced technical SEO
+- Automation of manual tasks
   
