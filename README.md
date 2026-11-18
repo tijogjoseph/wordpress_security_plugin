@@ -36,4 +36,9 @@ PRO features
 - The dashboard shows current progress.
 - Added Run file monitoring now.
 - Added Reset file baseline.
-  
+
+# Version 0.4.2
+- Successful-login email notifications, enabled by default.
+- Notifications include login time, trusted server IP, account, and browser category.
+- Active session details on the WordPress profile page.
+- “Log out other sessions” and “Log out all sessions” controls.
