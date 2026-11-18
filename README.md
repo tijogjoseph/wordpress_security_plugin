@@ -18,4 +18,16 @@ PRO features
 - Google search console integration
 - Advanced technical SEO
 - Automation of manual tasks
+
+# Version 0.3.8
+- PRO feature introduced - Scan site files
+- It provides a report but it does not delete or quarantine files
+
+# Version 0.3.9
+- Changes with dashboard tabs UI as routed views
+
+# Version 0.4.0
+- Run scans on a schedule. It provides report only, no deletion or quarantine of files
+
+
   
