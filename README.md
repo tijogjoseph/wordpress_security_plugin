@@ -48,3 +48,6 @@ PRO features
 - Shows setup progress and success notices.
 - Produces a pending secret and authenticator-code confirmation step.
 - Avoids nested HTML forms.
+
+# Version 0.4.4
+- In 0.4.4, 2FA and session actions now submit through WordPress’s standard button, so setup and cancel shouldn’t trigger that misleading warning.
