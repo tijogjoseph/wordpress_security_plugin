@@ -29,5 +29,11 @@ PRO features
 # Version 0.4.0
 - Run scans on a schedule. It provides report only, no deletion or quarantine of files
 
-
+# Version 0.4.1
+- Scans run in resumable batches of 500 PHP files.
+- Progress is retained if a cron request times out or fails.
+- Overlapping scans are prevented.
+- The dashboard shows current progress.
+- Added Run file monitoring now.
+- Added Reset file baseline.
   
