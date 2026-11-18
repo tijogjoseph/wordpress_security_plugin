@@ -42,3 +42,9 @@ PRO features
 - Notifications include login time, trusted server IP, account, and browser category.
 - Active session details on the WordPress profile page.
 - “Log out other sessions” and “Log out all sessions” controls.
+
+# Version 0.4.3
+- Uses the existing profile form for 2FA and session actions.
+- Shows setup progress and success notices.
+- Produces a pending secret and authenticator-code confirmation step.
+- Avoids nested HTML forms.
