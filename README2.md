@@ -30,3 +30,8 @@ Basic features
 
 # Version 2.3.1
 - Link Analysis UI & Accuracy Improvements
+
+# Version 2.3.2
+- Source page counting fixed
+# Version 2.3.3
+- 
