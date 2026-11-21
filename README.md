@@ -15,9 +15,7 @@ Features Implemented
  - Admin dashboard - Done
 
 PRO features
-- Google search console integration
-- Advanced technical SEO
-- Automation of manual tasks
+- Malware scanning
 
 # Version 0.3.8
 - PRO feature introduced - Scan site files
