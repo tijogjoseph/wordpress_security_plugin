@@ -1,18 +1,14 @@
 # SEO plugin details
 
 Basic features
-- Logout protection
-- 2FA
-- Captcha
-- Password strength
-- Inactivity logout
-- Firewall rules
-- Backups
-- Site checks and DB scan
+  - SEO title, Meta description, Focus keyphrase, related keyphrases, readbility analysis, heading analysis
+  - SEO checklist score, Image SEO analysis, Social meta data
+  - Content audit, image audit
+  - Basic technical SEO  
 
   PRO Features
-  - Google search console integration
   - Advanced technical SEO
+  - Google search console integration
   - Automation of manual tasks
 
 # Version 2.1.0
@@ -34,4 +30,4 @@ Basic features
 # Version 2.3.2
 - Source page counting fixed
 # Version 2.3.3
-- 
+- Fix for external URL broken issue
