@@ -26,4 +26,7 @@ Basic features
 - Duplicate detection and additional heading/title/description checks.
 
 # Version 2.3.0
-- 
+- Link anakysis - broken link detection, internal and external link checking, redirect detection, link status table etc.
+
+# Version 2.3.1
+- Link Analysis UI & Accuracy Improvements
