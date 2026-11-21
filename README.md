@@ -15,7 +15,9 @@ Features Implemented
  - Admin dashboard - Done
 
 PRO features
-- Malware scanning
+  - Malware scanning
+  - Frequent firewall rule updates
+  - DDoS attack prevention
 
 # Version 0.3.8
 - PRO feature introduced - Scan site files
