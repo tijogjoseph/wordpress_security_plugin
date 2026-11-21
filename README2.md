@@ -11,9 +11,9 @@ Basic features
 - Site checks and DB scan
 
   PRO Features
-  - Malware scanning
-  - Frequent firewall rule updates
-  - DDoS attack prevention
+  - Google search console integration
+  - Advanced technical SEO
+  - Automation of manual tasks
 
 # Version 2.1.0
 - Advanced website crawler(Phase 1)
