@@ -31,3 +31,12 @@ Basic features
 - Source page counting fixed
 # Version 2.3.3
 - Fix for external URL broken issue
+
+# Version 2.4.0
+- Page issue filtering, expandable issue details, CSV export etc.
+
+# Version 2.5.0
+- Added Crawl settings
+
+# Version 2.6.0
+- Added Crawl history
