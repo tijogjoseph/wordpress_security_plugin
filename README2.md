@@ -40,3 +40,6 @@ Basic features
 
 # Version 2.6.0
 - Added Crawl history
+
+# Version 2.9.5
+- Added Crawl alert history
